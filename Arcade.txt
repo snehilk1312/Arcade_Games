@@ -1,0 +1,1 @@
+1.Each “Point” will be a pixel. So a window that is 800 pixels wide, will have x-coordinates that run from 0 to 800.
